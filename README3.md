@@ -26,7 +26,7 @@ This project put key Power BI features into practice. Here's what we mastered:
 ---
 
 ## Dashboard Overview 
-![images](/Dashboard%20Image%201.jpg)
+![images](/Images/Dashboard%20Image%201.jpg)
 
 
 This second iteration consolidates the dashboard into a **single, focused page**, designed to give job seekers the most critical market insights at their fingertips.
@@ -39,3 +39,6 @@ This page acts as your concise mission control for the data job market. It showc
 
 This dashboard (Version 2.0) showcases Power BI's ability to transform extensive job posting data into a powerful, streamlined tool for career analysis. It empowers **Job Seekers, Job Transitioners, and Job Swappers** by allowing them to filter and explore essential market insights efficiently on a single page, helping them make informed decisions about their next career move.
 
+
+
+[/image/Dashboard Image 1.jpg]: /Dashboard%20Image%201.jpg

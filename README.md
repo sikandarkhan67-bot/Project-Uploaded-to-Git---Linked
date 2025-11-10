@@ -26,7 +26,7 @@ This project put key Power BI features into practice. Here's what we mastered:
 ---
 
 ## Dashboard Overview 
-![images](/Dashboard%20Image%201.jpg)
+![images](/images/Dashboard%20Image%201.jpg)
 
 
 This second iteration consolidates the dashboard into a **single, focused page**, designed to give job seekers the most critical market insights at their fingertips.
